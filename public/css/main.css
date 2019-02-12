@@ -81,6 +81,14 @@ html, body {
   font-style: italic;
 }
 
+#default-quick-facts {
+  background-color: #41ae76;
+  color: #fff;
+  line-height: 1;
+  padding: 20px 20px 25px 20px;
+  text-align: center;
+}
+
 #map {
   height: 100%;
   position: absolute;
